@@ -61,7 +61,7 @@ If you use this code, please cite the following paper:
 ```
 A. P. Millan, H. Sun, L. Giambagli, R. Muolo, T. Carletti, J.J. Torres, F. Radicchi, J. Kurths and G. Bianconi
 Topology Shapes Dynamics of Higher Order Networks
-Nature Physics (2025)s
+Nature Physics (2025)
 https://doi.org/10.1038/s41567-024-02757-w
 ```
 
